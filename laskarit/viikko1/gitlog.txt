@@ -1,0 +1,115 @@
+leo@lt-tower:~/code/ot_viikko1$ git log --stat | cat
+commit ce4b381902ed56d33f6da3ccc94c515bc8552945
+Author: leo.tuppurainen <leo.tuppurainen@gmail.com>
+Date:   Tue Mar 17 16:13:32 2020 +0200
+
+    file1 menehtyy. file2 on nyt file22.
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 78ec066f79078b5283326909c61bc46732028f3f
+Author: leo.tuppurainen <leo.tuppurainen@gmail.com>
+Date:   Tue Mar 17 16:05:43 2020 +0200
+
+    Tiedostoja lisätty.
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 7b3325b0cd6eef0a8f3b8a005b153a6fa46fa8ad
+Author: leo.tuppurainen <leo.tuppurainen@gmail.com>
+Date:   Tue Mar 17 15:58:54 2020 +0200
+
+    muutoksia ekaan ja kolmanteen.
+
+ eka.txt    | 4 +---
+ kolmas.txt | 2 +-
+ 2 files changed, 2 insertions(+), 4 deletions(-)
+
+commit 45be188ba6ad5253b45284e1279743056d5e4616
+Author: leo.tuppurainen <leo.tuppurainen@gmail.com>
+Date:   Tue Mar 17 15:55:40 2020 +0200
+
+    tiedosto.txt on nyt eka.txt.
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 7b9e47a1e41b07e0e29731e9e66961934a628788
+Author: leo.tuppurainen <leo.tuppurainen@gmail.com>
+Date:   Tue Mar 17 15:54:36 2020 +0200
+
+    toinen.txt poistettu.
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 8211e209068266602d5a82f0ff33388359adbe2a
+Author: leo.tuppurainen <leo.tuppurainen@gmail.com>
+Date:   Tue Mar 17 15:53:27 2020 +0200
+
+    vähän tekstiä pois ja vähän lisää tiedosto.txt:hen
+
+ tiedosto.txt | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+commit 9b6050a169917f667ea965c8332d04ddebbf1fce
+Author: leo.tuppurainen <leo.tuppurainen@gmail.com>
+Date:   Tue Mar 17 15:52:30 2020 +0200
+
+    paljon tekstiä tiedosto.txt:hen.
+
+ tiedosto.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 0dd51cbd0fed2ab129473a2285ae127ddc287e5b
+Author: leo.tuppurainen <leo.tuppurainen@gmail.com>
+Date:   Tue Mar 17 15:47:43 2020 +0200
+
+    hakemisto stuff lisätty sisältäen jonkin_tiedoston.
+
+ stuff/jokin_tiedosto | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 3ed97d41ecb64399a1276bd509420c35a5ca13f5
+Author: leo.tuppurainen <leo.tuppurainen@gmail.com>
+Date:   Tue Mar 17 15:45:26 2020 +0200
+
+    toinen ja kolmas muuttuneet
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit b0e905f0a0bedd2585c1f057a2b84a23fa7e3c1c
+Author: leo.tuppurainen <leo.tuppurainen@gmail.com>
+Date:   Tue Mar 17 15:44:17 2020 +0200
+
+    kolmas tiedosto
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 7d2901df40e12371b1bace3eab7a7195c4c3a93b
+Author: leo.tuppurainen <leo.tuppurainen@gmail.com>
+Date:   Tue Mar 17 15:42:37 2020 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 816b935aeed1ef61c8dbd962529acefbcbddf6a3
+Author: leo.tuppurainen <leo.tuppurainen@gmail.com>
+Date:   Tue Mar 17 15:40:40 2020 +0200
+
+    tiedosto.txt luoto
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
