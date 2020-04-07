@@ -1,4 +1,4 @@
-# MousePong
+# MousePong \[ !!! HUOM: Kehitys ja kurssityö keskeytetty 7.4.2020. !!! \]
 Hiirellä pelattava pingispeli, tehty kurssityönä Helsingin Yliopiston ohjelmistotekniikan kurssille kevätlukukaudella 2020.
 
 ## Dokumentointi
